@@ -4,7 +4,7 @@
 1. [HTML](#html-questions)
 1. [CSS](#css-questions)
 1. [JavaScript](#javascript-questions)
-1. [bootstrap](#bootstrap-questions)
+1. [Bootstrap](#bootstrap-questions)
 1. [Other](#other)
 
 ## HTML Questions
