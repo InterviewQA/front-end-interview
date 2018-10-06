@@ -31,7 +31,7 @@ Adhering to the following process is the best way to get your work included in t
    # Clone your fork of the repo into the current directory
    git clone https://github.com/<your-username>/front-end-interview.git
    # Navigate to the newly cloned directory
-   cd android-interview
+   cd front-end-interview
    # Assign the original repo to a remote called "upstream"
    git remote add upstream https://github.com/InterviewQA/front-end-interview.git
    ```
