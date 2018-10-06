@@ -1,26 +1,31 @@
-# front-end-interview
+# Front-end Interview Questions
 
 ## Table of Contents
-1. [bootstrap](#bootstrap-questions)
-1. [PHP](#php-questions)
+1. [HTML](#html-questions)
+1. [CSS](#css-questions)
 1. [JavaScript](#javascript-questions)
-1. [ruby](#ruby-questions)
-1. [other](#other)
+1. [bootstrap](#bootstrap-questions)
+1. [Other](#other)
 
-## Bootstrap Questions
-* [how much is bootstrap a time saver](#how-much-is-bootstrap-a-time-saver)
+## HTML Questions
 
-## PHP Questions 
-
+## CSS Questions
 
 ## JavaScript Questions
 
+## Bootstrap Questions
+* [How much is bootstrap a time saver](#how-much-is-bootstrap-a-time-saver)
 
-# Ruby Questions
+## Other
 
 
-## other
+## Translations
 
+* [English](/README.md)
+
+
+## Contributing
+You should make sure your question/answer is appropriate and unique for this repository and if you don't know how to contribute, you should read [CONTRIBUTING](/CONTRIBUTING) guide before pull request.
 
 ## License
 
